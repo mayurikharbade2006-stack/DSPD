@@ -7,7 +7,7 @@
 [practical 5](./practical_5.c)<br>
 [practical 6](./practical_6.c)<br>
 [practical 7](./practical_7.c)<br>
-
+[practical 8](./practical_8.c)<br>
 [practical 9](./practical_9.c)<br>
 [practical 10](./practical_10.c)<br>
 
